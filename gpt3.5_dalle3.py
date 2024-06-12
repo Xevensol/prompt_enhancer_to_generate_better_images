@@ -82,6 +82,7 @@ def prompt_rewamper(user_prompt):
         
         User Prompt: "{user_prompt}"
         Improvement Guidelines:
+        
         1. Add more specific details about the subject (e.g., color, texture, size, shape).
         2. Include contextual elements (e.g., background, environment, lighting).
         3. Specify the desired style or artistic influence (e.g., realistic, cartoonish, impressionistic).
