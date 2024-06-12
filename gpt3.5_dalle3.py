@@ -34,11 +34,11 @@ def generate_image_openai(prompt):
 # Streamlit application
 def main():
     # Set page title
-    st.title("Your Text to Image Generator")
+    st.title("TEXT TO IMAGE")
 
     # Brief detail about the system
     st.write("""
-        Welcome to the Text to Image Generator! This tool helps you generate high-quality prompts for image generation.
+        Welcome to the Text to Image Generator based on DALLE 3! This tool helps you generate high-quality prompts using GPT-3.5 for image generation.
         Simply enter your initial prompt, and our system will provide three improved prompts to enhance the quality of generated images.
     """)
 
